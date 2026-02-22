@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "the boy is mine",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-02-22T16:35:35.872779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "\"The Boy is mine\"",
+      "artist": "\"brandy\"",
+      "has_synced": false,
+      "path": "select/01_The_Boy_is_mine_brandy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the boy is mine",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_the_boy_is_mine_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Boy Is Mine",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/03_The_Boy_Is_Mine_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Boy is Mine",
+      "artist": "BaBe",
+      "has_synced": false,
+      "path": "select/04_The_Boy_is_Mine_BaBe.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Boy Is Mine",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/05_The_Boy_Is_Mine_Brandy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Boy Is Mine",
+      "artist": "Monica",
+      "has_synced": true,
+      "path": "select/06_The_Boy_Is_Mine_Monica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Boy Is Mine",
+      "artist": "Brandy",
+      "has_synced": false,
+      "path": "select/07_The_Boy_Is_Mine_Brandy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Boy Is Mine",
+      "artist": "Brandy;Monica",
+      "has_synced": true,
+      "path": "select/08_The_Boy_Is_Mine_Brandy;Monica.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "the boy is mine",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_the_boy_is_mine_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "the boy is mine",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/10_the_boy_is_mine_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "the boy is mine",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_the_boy_is_mine_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Boy Is Mine",
+      "artist": "Brandy",
+      "has_synced": true,
+      "path": "select/12_The_Boy_Is_Mine_Brandy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the boy is mine",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_the_boy_is_mine_Ariana_Grande.txt"
+    }
+  ]
+}
